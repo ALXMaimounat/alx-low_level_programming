@@ -2,5 +2,6 @@
 
 int main(void)
 {
-	print("Programming is like building a multiliangual puzzle")
+	print("\"Programming is like building a multiliangual puzzle");
+	return (0);
 }
