@@ -7,6 +7,6 @@
 
 int main(void)
 {
-	printf("\"Programming is like building a multiliangual puzzle");
+	puts("\"Programming is like building a multiliangual puzzle");
 	return (0);
 }
